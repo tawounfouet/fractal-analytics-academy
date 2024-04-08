@@ -11,5 +11,15 @@ This curriculum is designed with a **problem-solving approach** at the center to
 Through hands-on courses like "Python for Data Science" and "Advanced Machine Learning Algorithm," I learnto master Python programming, harness the power of machine learning, and cultivate expertise in data manipulation. Additionally, courses like "Human Decision Making and its Biases"  provide me with a profound understanding of cognitive factors affecting decisions. 
 I  also learn the direct application of tools like **SQL**, **PowerBI**, and **Python** to `real-world scenarios`.
 
-Here is the earn a Professional Certificate : 
+Here is the earn a Professional Certificate :
+
+
+
+
+### About Fractal Analytics Academy
+
+
+`Learn & Grow` is our mantra at Fractal.
+
+Whether you are aspiring to enter the field of Data Analytics, a working professional, or an organization with a learning requirement, we have a learning program for your need.
 
